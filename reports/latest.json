@@ -1,0 +1,52 @@
+{
+  "source": "https://raw.githubusercontent.com/freenodess/freenodess/refs/heads/main/nodes/v2ray-base64.txt",
+  "raw_size_bytes": 451312,
+  "decoded_lines": 1751,
+  "node_count": 1751,
+  "protocols": {
+    "hy2": 171,
+    "ss": 134,
+    "trojan": 234,
+    "vless": 1002,
+    "vmess": 210
+  },
+  "host_types": {
+    "域名": 419,
+    "IP": 1332
+  },
+  "samples": [
+    {
+      "protocol": "hy2",
+      "host": "vp3.yysyy.online"
+    },
+    {
+      "protocol": "hy2",
+      "host": "8.211.175.236"
+    },
+    {
+      "protocol": "hy2",
+      "host": "vp3.yysyy.online"
+    },
+    {
+      "protocol": "hy2",
+      "host": "8.211.175.236"
+    },
+    {
+      "protocol": "hy2",
+      "host": "vp3.yysyy.online"
+    },
+    {
+      "protocol": "hy2",
+      "host": "138.3.208.26"
+    },
+    {
+      "protocol": "hy2",
+      "host": "vp3.yysyy.online"
+    },
+    {
+      "protocol": "hy2",
+      "host": "138.3.208.26"
+    }
+  ],
+  "note": "本版本只统计，不筛选、不删除节点。"
+}
