@@ -2423,5 +2423,15 @@
     "country": "United States",
     "country_code": "US",
     "city": "Washington"
+  },
+  "172.235.60.117": {
+    "country": "United States",
+    "country_code": "US",
+    "city": "Los Angeles"
+  },
+  "54.153.116.128": {
+    "country": "United States",
+    "country_code": "US",
+    "city": "San Jose"
   }
 }
