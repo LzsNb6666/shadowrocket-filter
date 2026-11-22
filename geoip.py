@@ -80,7 +80,7 @@ def resolve_host(host):
             except ValueError:
                 continue
         return ips
-    except (OSError, socket.gaierror):
+    except (OSError, UnicodeError):
         return []
 
 
