@@ -28,6 +28,9 @@ jobs:
       - name: Run GeoIP analyzer
         run: python geoip.py
 
+      - name: Run subscription filter
+        run: python filter.py
+
       - name: Upload analysis reports
         uses: actions/upload-artifact@v4
         with:
@@ -35,17 +38,21 @@ jobs:
           path: |
             report.json
             geoip-report.json
+            filter-summary.json
+            filtered-subscription.txt
 
       - name: Save reports
         run: |
           mkdir -p reports
           cp report.json reports/latest.json
           cp geoip-report.json reports/latest-geoip.json
+          cp filter-summary.json reports/latest-filter.json
+          cp filtered-subscription.txt reports/filtered-subscription.txt
 
       - name: Commit reports and cache
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports/latest.json reports/latest-geoip.json geoip-cache.json geoip-state.json
-          git diff --cached --quiet || git commit -m "Update subscription and GeoIP reports"
+          git add reports/latest.json reports/latest-geoip.json reports/latest-filter.json reports/filtered-subscription.txt geoip-cache.json geoip-state.json
+          git diff --cached --quiet || git commit -m "Update filtered subscription reports"
           git push
