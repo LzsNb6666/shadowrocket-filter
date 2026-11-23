@@ -1,8 +1,8 @@
 {
   "source": "https://raw.githubusercontent.com/freenodess/freenodess/refs/heads/main/nodes/v2ray-base64.txt",
   "total_nodes": 1751,
-  "unique_cached_ips": 489,
-  "requests_used_today_utc": 489,
+  "unique_cached_ips": 490,
+  "requests_used_today_utc": 1,
   "daily_request_cap": 750,
   "allowed_regions": [
     "JP",
@@ -1239,10 +1239,10 @@
       "index": 89,
       "host": "support.zoom.us",
       "ips": [
-        "170.114.45.6",
         "170.114.46.6",
-        "2407:30c0:181::6",
-        "2407:30c0:180::6"
+        "170.114.45.6",
+        "2407:30c0:180::6",
+        "2407:30c0:181::6"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -2079,8 +2079,8 @@
       "ips": [
         "104.21.11.38",
         "172.67.165.32",
-        "2606:4700:3032::6815:b26",
-        "2606:4700:3036::ac43:a520"
+        "2606:4700:3036::ac43:a520",
+        "2606:4700:3032::6815:b26"
       ],
       "region": "OTHER",
       "geoip": [
@@ -3380,10 +3380,10 @@
       "index": 248,
       "host": "support.zoom.us",
       "ips": [
-        "170.114.45.6",
         "170.114.46.6",
-        "2407:30c0:181::6",
-        "2407:30c0:180::6"
+        "170.114.45.6",
+        "2407:30c0:180::6",
+        "2407:30c0:181::6"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -4802,10 +4802,10 @@
       "index": 356,
       "host": "support.zoom.us",
       "ips": [
-        "170.114.45.6",
         "170.114.46.6",
-        "2407:30c0:181::6",
-        "2407:30c0:180::6"
+        "170.114.45.6",
+        "2407:30c0:180::6",
+        "2407:30c0:181::6"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -5516,10 +5516,10 @@
       "index": 402,
       "host": "fast.145779.xyz",
       "ips": [
-        "104.21.58.37",
         "172.67.199.126",
-        "2606:4700:3033::ac43:c77e",
-        "2606:4700:3037::6815:3a25"
+        "104.21.58.37",
+        "2606:4700:3037::6815:3a25",
+        "2606:4700:3033::ac43:c77e"
       ],
       "region": "OTHER",
       "geoip": [
@@ -5866,8 +5866,8 @@
       "ips": [
         "104.21.11.38",
         "172.67.165.32",
-        "2606:4700:3032::6815:b26",
-        "2606:4700:3036::ac43:a520"
+        "2606:4700:3036::ac43:a520",
+        "2606:4700:3032::6815:b26"
       ],
       "region": "OTHER",
       "geoip": [
@@ -6647,21 +6647,21 @@
       "index": 475,
       "host": "connect.hondamotor.site",
       "ips": [
+        "178.83.45.226",
         "155.117.5.208",
-        "168.222.43.53",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -10627,7 +10627,7 @@
       "index": 771,
       "host": "us3.oh-node.com",
       "ips": [
-        "54.193.235.179"
+        "54.183.224.104"
       ],
       "region": "OTHER",
       "geoip": [
@@ -10753,10 +10753,10 @@
       "index": 779,
       "host": "fast.145779.xyz",
       "ips": [
-        "104.21.58.37",
         "172.67.199.126",
-        "2606:4700:3033::ac43:c77e",
-        "2606:4700:3037::6815:3a25"
+        "104.21.58.37",
+        "2606:4700:3037::6815:3a25",
+        "2606:4700:3033::ac43:c77e"
       ],
       "region": "OTHER",
       "geoip": [
@@ -11371,21 +11371,21 @@
       "index": 819,
       "host": "connect.hondamotor.site",
       "ips": [
+        "178.83.45.226",
         "155.117.5.208",
-        "168.222.43.53",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -11458,21 +11458,21 @@
       "index": 824,
       "host": "connect.hondamotor.site",
       "ips": [
+        "178.83.45.226",
         "155.117.5.208",
-        "168.222.43.53",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -11786,8 +11786,8 @@
       "host": "connect.wecantos.site",
       "ips": [
         "168.222.43.53",
-        "155.117.5.208",
-        "178.83.45.226"
+        "178.83.45.226",
+        "155.117.5.208"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -11797,14 +11797,14 @@
           "city": "Limburg an der Lahn"
         },
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         }
       ]
     },
@@ -11858,8 +11858,8 @@
       "host": "connect.wecantos.site",
       "ips": [
         "168.222.43.53",
-        "155.117.5.208",
-        "178.83.45.226"
+        "178.83.45.226",
+        "155.117.5.208"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -11869,14 +11869,14 @@
           "city": "Limburg an der Lahn"
         },
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         }
       ]
     },
@@ -11989,21 +11989,21 @@
       "index": 857,
       "host": "connect.hondamotor.site",
       "ips": [
+        "178.83.45.226",
         "155.117.5.208",
-        "168.222.43.53",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -12622,21 +12622,21 @@
       "index": 898,
       "host": "site.teslamotor.site",
       "ips": [
-        "155.117.5.208",
         "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -12724,21 +12724,21 @@
       "index": 904,
       "host": "site.teslamotor.site",
       "ips": [
-        "155.117.5.208",
         "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -14255,8 +14255,8 @@
       "ips": [
         "104.21.11.38",
         "172.67.165.32",
-        "2606:4700:3032::6815:b26",
-        "2606:4700:3036::ac43:a520"
+        "2606:4700:3036::ac43:a520",
+        "2606:4700:3032::6815:b26"
       ],
       "region": "OTHER",
       "geoip": [
@@ -14639,8 +14639,8 @@
       "ips": [
         "104.21.11.38",
         "172.67.165.32",
-        "2606:4700:3032::6815:b26",
-        "2606:4700:3036::ac43:a520"
+        "2606:4700:3036::ac43:a520",
+        "2606:4700:3032::6815:b26"
       ],
       "region": "OTHER",
       "geoip": [
@@ -14850,10 +14850,10 @@
       "index": 1052,
       "host": "fast.145779.xyz",
       "ips": [
-        "104.21.58.37",
         "172.67.199.126",
-        "2606:4700:3033::ac43:c77e",
-        "2606:4700:3037::6815:3a25"
+        "104.21.58.37",
+        "2606:4700:3037::6815:3a25",
+        "2606:4700:3033::ac43:c77e"
       ],
       "region": "OTHER",
       "geoip": [
@@ -16083,10 +16083,10 @@
       "index": 1133,
       "host": "fast.145779.xyz",
       "ips": [
-        "104.21.58.37",
         "172.67.199.126",
-        "2606:4700:3033::ac43:c77e",
-        "2606:4700:3037::6815:3a25"
+        "104.21.58.37",
+        "2606:4700:3037::6815:3a25",
+        "2606:4700:3033::ac43:c77e"
       ],
       "region": "OTHER",
       "geoip": [
@@ -16528,21 +16528,21 @@
       "index": 1162,
       "host": "milo.networkforexir.site",
       "ips": [
-        "168.222.43.53",
         "155.117.5.208",
+        "168.222.43.53",
         "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
           "country": "France",
           "country_code": "FR",
           "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
         },
         {
           "country": "Germany",
@@ -16645,21 +16645,21 @@
       "index": 1169,
       "host": "milo.networkforexir.site",
       "ips": [
-        "168.222.43.53",
         "155.117.5.208",
+        "168.222.43.53",
         "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
           "country": "France",
           "country_code": "FR",
           "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
         },
         {
           "country": "Germany",
@@ -18317,21 +18317,21 @@
       "index": 1289,
       "host": "connect.hondamotor.site",
       "ips": [
+        "178.83.45.226",
         "155.117.5.208",
-        "168.222.43.53",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -18419,10 +18419,10 @@
       "index": 1295,
       "host": "fast.145779.xyz",
       "ips": [
-        "104.21.58.37",
         "172.67.199.126",
-        "2606:4700:3033::ac43:c77e",
-        "2606:4700:3037::6815:3a25"
+        "104.21.58.37",
+        "2606:4700:3037::6815:3a25",
+        "2606:4700:3033::ac43:c77e"
       ],
       "region": "OTHER",
       "geoip": [
@@ -18513,8 +18513,8 @@
       "host": "connect.wecantos.site",
       "ips": [
         "168.222.43.53",
-        "155.117.5.208",
-        "178.83.45.226"
+        "178.83.45.226",
+        "155.117.5.208"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -18524,14 +18524,14 @@
           "city": "Limburg an der Lahn"
         },
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         }
       ]
     },
@@ -18824,21 +18824,21 @@
       "index": 1320,
       "host": "site.teslamotor.site",
       "ips": [
-        "155.117.5.208",
         "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -18971,21 +18971,21 @@
       "index": 1329,
       "host": "connect.hondamotor.site",
       "ips": [
+        "178.83.45.226",
         "155.117.5.208",
-        "168.222.43.53",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -19035,21 +19035,21 @@
       "index": 1333,
       "host": "site.teslamotor.site",
       "ips": [
-        "155.117.5.208",
         "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -19123,8 +19123,8 @@
       "host": "connect.wecantos.site",
       "ips": [
         "168.222.43.53",
-        "155.117.5.208",
-        "178.83.45.226"
+        "178.83.45.226",
+        "155.117.5.208"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -19134,14 +19134,14 @@
           "city": "Limburg an der Lahn"
         },
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         }
       ]
     },
@@ -19149,21 +19149,21 @@
       "index": 1339,
       "host": "milo.networkforexir.site",
       "ips": [
-        "168.222.43.53",
         "155.117.5.208",
+        "168.222.43.53",
         "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
           "country": "France",
           "country_code": "FR",
           "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
         },
         {
           "country": "Germany",
@@ -19206,21 +19206,21 @@
       "index": 1342,
       "host": "site.teslamotor.site",
       "ips": [
-        "155.117.5.208",
         "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -19768,21 +19768,21 @@
       "index": 1376,
       "host": "milo.networkforexir.site",
       "ips": [
-        "168.222.43.53",
         "155.117.5.208",
+        "168.222.43.53",
         "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
           "country": "France",
           "country_code": "FR",
           "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
         },
         {
           "country": "Germany",
@@ -21672,10 +21672,10 @@
       "index": 1510,
       "host": "fast.145779.xyz",
       "ips": [
-        "104.21.58.37",
         "172.67.199.126",
-        "2606:4700:3033::ac43:c77e",
-        "2606:4700:3037::6815:3a25"
+        "104.21.58.37",
+        "2606:4700:3037::6815:3a25",
+        "2606:4700:3033::ac43:c77e"
       ],
       "region": "OTHER",
       "geoip": [
@@ -22185,20 +22185,20 @@
       "index": 1543,
       "host": "edge10.cyrionflare.com",
       "ips": [
-        "155.117.5.208",
-        "178.83.45.226"
+        "178.83.45.226",
+        "155.117.5.208"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         }
       ]
     },
@@ -22236,20 +22236,20 @@
       "index": 1546,
       "host": "edge10.cyrionflare.com",
       "ips": [
-        "155.117.5.208",
-        "178.83.45.226"
+        "178.83.45.226",
+        "155.117.5.208"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         }
       ]
     },
@@ -22572,21 +22572,21 @@
       "index": 1568,
       "host": "connect.hondamotor.site",
       "ips": [
+        "178.83.45.226",
         "155.117.5.208",
-        "168.222.43.53",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -23360,21 +23360,21 @@
       "index": 1620,
       "host": "site.teslamotor.site",
       "ips": [
-        "155.117.5.208",
         "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -25011,10 +25011,10 @@
       "index": 1735,
       "host": "fast.145779.xyz",
       "ips": [
-        "104.21.58.37",
         "172.67.199.126",
-        "2606:4700:3033::ac43:c77e",
-        "2606:4700:3037::6815:3a25"
+        "104.21.58.37",
+        "2606:4700:3037::6815:3a25",
+        "2606:4700:3033::ac43:c77e"
       ],
       "region": "OTHER",
       "geoip": [
@@ -25210,8 +25210,8 @@
       "host": "connect.wecantos.site",
       "ips": [
         "168.222.43.53",
-        "155.117.5.208",
-        "178.83.45.226"
+        "178.83.45.226",
+        "155.117.5.208"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -25221,14 +25221,14 @@
           "city": "Limburg an der Lahn"
         },
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         }
       ]
     },
@@ -25266,21 +25266,21 @@
       "index": 1750,
       "host": "connect.hondamotor.site",
       "ips": [
+        "178.83.45.226",
         "155.117.5.208",
-        "168.222.43.53",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
