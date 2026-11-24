@@ -1,8 +1,8 @@
 {
   "source": "https://raw.githubusercontent.com/freenodess/freenodess/refs/heads/main/nodes/v2ray-base64.txt",
   "total_nodes": 1751,
-  "unique_cached_ips": 491,
-  "requests_used_today_utc": 2,
+  "unique_cached_ips": 492,
+  "requests_used_today_utc": 1,
   "daily_request_cap": 750,
   "allowed_regions": [
     "JP",
@@ -1241,8 +1241,8 @@
       "ips": [
         "170.114.46.6",
         "170.114.45.6",
-        "2407:30c0:180::6",
-        "2407:30c0:181::6"
+        "2407:30c0:181::6",
+        "2407:30c0:180::6"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -2077,8 +2077,8 @@
       "index": 149,
       "host": "n04.jinggai.online",
       "ips": [
-        "104.21.11.38",
         "172.67.165.32",
+        "104.21.11.38",
         "2606:4700:3032::6815:b26",
         "2606:4700:3036::ac43:a520"
       ],
@@ -3382,8 +3382,8 @@
       "ips": [
         "170.114.46.6",
         "170.114.45.6",
-        "2407:30c0:180::6",
-        "2407:30c0:181::6"
+        "2407:30c0:181::6",
+        "2407:30c0:180::6"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -4804,8 +4804,8 @@
       "ips": [
         "170.114.46.6",
         "170.114.45.6",
-        "2407:30c0:180::6",
-        "2407:30c0:181::6"
+        "2407:30c0:181::6",
+        "2407:30c0:180::6"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -5516,10 +5516,10 @@
       "index": 402,
       "host": "fast.145779.xyz",
       "ips": [
-        "172.67.199.126",
         "104.21.58.37",
-        "2606:4700:3037::6815:3a25",
-        "2606:4700:3033::ac43:c77e"
+        "172.67.199.126",
+        "2606:4700:3033::ac43:c77e",
+        "2606:4700:3037::6815:3a25"
       ],
       "region": "OTHER",
       "geoip": [
@@ -5864,8 +5864,8 @@
       "index": 424,
       "host": "n04.jinggai.online",
       "ips": [
-        "104.21.11.38",
         "172.67.165.32",
+        "104.21.11.38",
         "2606:4700:3032::6815:b26",
         "2606:4700:3036::ac43:a520"
       ],
@@ -6647,9 +6647,9 @@
       "index": 475,
       "host": "connect.hondamotor.site",
       "ips": [
-        "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -7562,8 +7562,8 @@
       "index": 548,
       "host": "saas.sin.fan",
       "ips": [
-        "162.159.135.234",
-        "162.159.130.234"
+        "162.159.130.234",
+        "162.159.135.234"
       ],
       "region": "OTHER",
       "geoip": [
@@ -7628,8 +7628,8 @@
       "index": 552,
       "host": "saas.sin.fan",
       "ips": [
-        "162.159.135.234",
-        "162.159.130.234"
+        "162.159.130.234",
+        "162.159.135.234"
       ],
       "region": "OTHER",
       "geoip": [
@@ -10480,8 +10480,8 @@
       "index": 762,
       "host": "saas.sin.fan",
       "ips": [
-        "162.159.135.234",
-        "162.159.130.234"
+        "162.159.130.234",
+        "162.159.135.234"
       ],
       "region": "OTHER",
       "geoip": [
@@ -10627,7 +10627,7 @@
       "index": 771,
       "host": "us3.oh-node.com",
       "ips": [
-        "54.219.83.97"
+        "13.56.194.152"
       ],
       "region": "OTHER",
       "geoip": [
@@ -10717,8 +10717,8 @@
       "index": 777,
       "host": "saas.sin.fan",
       "ips": [
-        "162.159.135.234",
-        "162.159.130.234"
+        "162.159.130.234",
+        "162.159.135.234"
       ],
       "region": "OTHER",
       "geoip": [
@@ -10753,10 +10753,10 @@
       "index": 779,
       "host": "fast.145779.xyz",
       "ips": [
-        "172.67.199.126",
         "104.21.58.37",
-        "2606:4700:3037::6815:3a25",
-        "2606:4700:3033::ac43:c77e"
+        "172.67.199.126",
+        "2606:4700:3033::ac43:c77e",
+        "2606:4700:3037::6815:3a25"
       ],
       "region": "OTHER",
       "geoip": [
@@ -11371,9 +11371,9 @@
       "index": 819,
       "host": "connect.hondamotor.site",
       "ips": [
-        "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -11458,9 +11458,9 @@
       "index": 824,
       "host": "connect.hondamotor.site",
       "ips": [
-        "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -11785,21 +11785,21 @@
       "index": 845,
       "host": "connect.wecantos.site",
       "ips": [
+        "168.222.43.53",
         "155.117.5.208",
-        "178.83.45.226",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -11857,21 +11857,21 @@
       "index": 849,
       "host": "connect.wecantos.site",
       "ips": [
+        "168.222.43.53",
         "155.117.5.208",
-        "178.83.45.226",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -11989,9 +11989,9 @@
       "index": 857,
       "host": "connect.hondamotor.site",
       "ips": [
-        "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -12622,9 +12622,9 @@
       "index": 898,
       "host": "site.teslamotor.site",
       "ips": [
-        "178.83.45.226",
+        "168.222.43.53",
         "155.117.5.208",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -12724,9 +12724,9 @@
       "index": 904,
       "host": "site.teslamotor.site",
       "ips": [
-        "178.83.45.226",
+        "168.222.43.53",
         "155.117.5.208",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -12938,8 +12938,8 @@
       "index": 918,
       "host": "milo.rubinaz.xyz",
       "ips": [
-        "178.83.45.226",
         "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208"
       ],
       "region": "UNKNOWN",
@@ -14253,8 +14253,8 @@
       "index": 1015,
       "host": "n04.jinggai.online",
       "ips": [
-        "104.21.11.38",
         "172.67.165.32",
+        "104.21.11.38",
         "2606:4700:3032::6815:b26",
         "2606:4700:3036::ac43:a520"
       ],
@@ -14556,8 +14556,8 @@
       "index": 1034,
       "host": "saas.sin.fan",
       "ips": [
-        "162.159.135.234",
-        "162.159.130.234"
+        "162.159.130.234",
+        "162.159.135.234"
       ],
       "region": "OTHER",
       "geoip": [
@@ -14637,8 +14637,8 @@
       "index": 1039,
       "host": "n04.jinggai.online",
       "ips": [
-        "104.21.11.38",
         "172.67.165.32",
+        "104.21.11.38",
         "2606:4700:3032::6815:b26",
         "2606:4700:3036::ac43:a520"
       ],
@@ -14850,10 +14850,10 @@
       "index": 1052,
       "host": "fast.145779.xyz",
       "ips": [
-        "172.67.199.126",
         "104.21.58.37",
-        "2606:4700:3037::6815:3a25",
-        "2606:4700:3033::ac43:c77e"
+        "172.67.199.126",
+        "2606:4700:3033::ac43:c77e",
+        "2606:4700:3037::6815:3a25"
       ],
       "region": "OTHER",
       "geoip": [
@@ -16083,10 +16083,10 @@
       "index": 1133,
       "host": "fast.145779.xyz",
       "ips": [
-        "172.67.199.126",
         "104.21.58.37",
-        "2606:4700:3037::6815:3a25",
-        "2606:4700:3033::ac43:c77e"
+        "172.67.199.126",
+        "2606:4700:3033::ac43:c77e",
+        "2606:4700:3037::6815:3a25"
       ],
       "region": "OTHER",
       "geoip": [
@@ -16528,26 +16528,26 @@
       "index": 1162,
       "host": "milo.networkforexir.site",
       "ips": [
-        "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226",
-        "155.117.5.208"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
           "country": "France",
           "country_code": "FR",
           "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
         }
       ]
     },
@@ -16645,26 +16645,26 @@
       "index": 1169,
       "host": "milo.networkforexir.site",
       "ips": [
-        "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226",
-        "155.117.5.208"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
           "country": "France",
           "country_code": "FR",
           "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
         }
       ]
     },
@@ -16717,8 +16717,8 @@
       "index": 1173,
       "host": "milo.rubinaz.xyz",
       "ips": [
-        "178.83.45.226",
         "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208"
       ],
       "region": "UNKNOWN",
@@ -17815,8 +17815,8 @@
       "ips": [
         "104.18.9.83",
         "104.18.8.83",
-        "2606:4700::6812:953",
-        "2606:4700::6812:853"
+        "2606:4700::6812:853",
+        "2606:4700::6812:953"
       ],
       "region": "OTHER",
       "geoip": [
@@ -18266,8 +18266,8 @@
       "index": 1286,
       "host": "api.mediaklenov.cc",
       "ips": [
-        "189.74.114.119",
-        "189.74.114.93"
+        "189.74.114.93",
+        "189.74.114.119"
       ],
       "region": "OTHER",
       "geoip": [
@@ -18317,9 +18317,9 @@
       "index": 1289,
       "host": "connect.hondamotor.site",
       "ips": [
-        "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -18419,10 +18419,10 @@
       "index": 1295,
       "host": "fast.145779.xyz",
       "ips": [
-        "172.67.199.126",
         "104.21.58.37",
-        "2606:4700:3037::6815:3a25",
-        "2606:4700:3033::ac43:c77e"
+        "172.67.199.126",
+        "2606:4700:3033::ac43:c77e",
+        "2606:4700:3037::6815:3a25"
       ],
       "region": "OTHER",
       "geoip": [
@@ -18512,21 +18512,21 @@
       "index": 1300,
       "host": "connect.wecantos.site",
       "ips": [
+        "168.222.43.53",
         "155.117.5.208",
-        "178.83.45.226",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -18824,9 +18824,9 @@
       "index": 1320,
       "host": "site.teslamotor.site",
       "ips": [
-        "178.83.45.226",
+        "168.222.43.53",
         "155.117.5.208",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -18971,9 +18971,9 @@
       "index": 1329,
       "host": "connect.hondamotor.site",
       "ips": [
-        "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -19035,9 +19035,9 @@
       "index": 1333,
       "host": "site.teslamotor.site",
       "ips": [
-        "178.83.45.226",
+        "168.222.43.53",
         "155.117.5.208",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -19122,6 +19122,33 @@
       "index": 1338,
       "host": "connect.wecantos.site",
       "ips": [
+        "168.222.43.53",
+        "155.117.5.208",
+        "178.83.45.226"
+      ],
+      "region": "UNKNOWN",
+      "geoip": [
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
+        }
+      ]
+    },
+    {
+      "index": 1339,
+      "host": "milo.networkforexir.site",
+      "ips": [
         "155.117.5.208",
         "178.83.45.226",
         "168.222.43.53"
@@ -19142,33 +19169,6 @@
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
-        }
-      ]
-    },
-    {
-      "index": 1339,
-      "host": "milo.networkforexir.site",
-      "ips": [
-        "168.222.43.53",
-        "178.83.45.226",
-        "155.117.5.208"
-      ],
-      "region": "UNKNOWN",
-      "geoip": [
-        {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
         }
       ]
     },
@@ -19206,9 +19206,9 @@
       "index": 1342,
       "host": "site.teslamotor.site",
       "ips": [
-        "178.83.45.226",
+        "168.222.43.53",
         "155.117.5.208",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -19293,8 +19293,8 @@
       "index": 1347,
       "host": "milo.rubinaz.xyz",
       "ips": [
-        "178.83.45.226",
         "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208"
       ],
       "region": "UNKNOWN",
@@ -19455,8 +19455,8 @@
       "index": 1357,
       "host": "milo.rubinaz.xyz",
       "ips": [
-        "178.83.45.226",
         "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208"
       ],
       "region": "UNKNOWN",
@@ -19549,8 +19549,8 @@
       "index": 1363,
       "host": "milo.rubinaz.xyz",
       "ips": [
-        "178.83.45.226",
         "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208"
       ],
       "region": "UNKNOWN",
@@ -19681,8 +19681,8 @@
       "index": 1371,
       "host": "milo.rubinaz.xyz",
       "ips": [
-        "178.83.45.226",
         "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208"
       ],
       "region": "UNKNOWN",
@@ -19768,26 +19768,26 @@
       "index": 1376,
       "host": "milo.networkforexir.site",
       "ips": [
-        "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226",
-        "155.117.5.208"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
           "country": "France",
           "country_code": "FR",
           "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
         }
       ]
     },
@@ -21236,8 +21236,8 @@
       "ips": [
         "104.18.9.83",
         "104.18.8.83",
-        "2606:4700::6812:953",
-        "2606:4700::6812:853"
+        "2606:4700::6812:853",
+        "2606:4700::6812:953"
       ],
       "region": "OTHER",
       "geoip": [
@@ -21672,10 +21672,10 @@
       "index": 1510,
       "host": "fast.145779.xyz",
       "ips": [
-        "172.67.199.126",
         "104.21.58.37",
-        "2606:4700:3037::6815:3a25",
-        "2606:4700:3033::ac43:c77e"
+        "172.67.199.126",
+        "2606:4700:3033::ac43:c77e",
+        "2606:4700:3037::6815:3a25"
       ],
       "region": "OTHER",
       "geoip": [
@@ -22572,9 +22572,9 @@
       "index": 1568,
       "host": "connect.hondamotor.site",
       "ips": [
-        "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -22876,8 +22876,8 @@
       "index": 1588,
       "host": "milo.rubinaz.xyz",
       "ips": [
-        "178.83.45.226",
         "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208"
       ],
       "region": "UNKNOWN",
@@ -23360,9 +23360,9 @@
       "index": 1620,
       "host": "site.teslamotor.site",
       "ips": [
-        "178.83.45.226",
+        "168.222.43.53",
         "155.117.5.208",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -24491,8 +24491,8 @@
       "ips": [
         "104.18.9.83",
         "104.18.8.83",
-        "2606:4700::6812:953",
-        "2606:4700::6812:853"
+        "2606:4700::6812:853",
+        "2606:4700::6812:953"
       ],
       "region": "OTHER",
       "geoip": [
@@ -24614,8 +24614,8 @@
       "ips": [
         "104.18.9.83",
         "104.18.8.83",
-        "2606:4700::6812:953",
-        "2606:4700::6812:853"
+        "2606:4700::6812:853",
+        "2606:4700::6812:953"
       ],
       "region": "OTHER",
       "geoip": [
@@ -24810,8 +24810,8 @@
       "index": 1722,
       "host": "saas.sin.fan",
       "ips": [
-        "162.159.135.234",
-        "162.159.130.234"
+        "162.159.130.234",
+        "162.159.135.234"
       ],
       "region": "OTHER",
       "geoip": [
@@ -25011,10 +25011,10 @@
       "index": 1735,
       "host": "fast.145779.xyz",
       "ips": [
-        "172.67.199.126",
         "104.21.58.37",
-        "2606:4700:3037::6815:3a25",
-        "2606:4700:3033::ac43:c77e"
+        "172.67.199.126",
+        "2606:4700:3033::ac43:c77e",
+        "2606:4700:3037::6815:3a25"
       ],
       "region": "OTHER",
       "geoip": [
@@ -25209,21 +25209,21 @@
       "index": 1747,
       "host": "connect.wecantos.site",
       "ips": [
+        "168.222.43.53",
         "155.117.5.208",
-        "178.83.45.226",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "France",
-          "country_code": "FR",
-          "city": "Gravelines"
-        },
-        {
           "country": "Germany",
           "country_code": "DE",
           "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "France",
+          "country_code": "FR",
+          "city": "Gravelines"
         },
         {
           "country": "Germany",
@@ -25266,9 +25266,9 @@
       "index": 1750,
       "host": "connect.hondamotor.site",
       "ips": [
-        "168.222.43.53",
+        "178.83.45.226",
         "155.117.5.208",
-        "178.83.45.226"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
