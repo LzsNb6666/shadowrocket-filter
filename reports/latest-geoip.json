@@ -1,8 +1,8 @@
 {
   "source": "https://raw.githubusercontent.com/freenodess/freenodess/refs/heads/main/nodes/v2ray-base64.txt",
   "total_nodes": 1751,
-  "unique_cached_ips": 496,
-  "requests_used_today_utc": 1,
+  "unique_cached_ips": 501,
+  "requests_used_today_utc": 6,
   "daily_request_cap": 750,
   "allowed_regions": [
     "JP",
@@ -1241,8 +1241,8 @@
       "ips": [
         "170.114.46.6",
         "170.114.45.6",
-        "2407:30c0:180::6",
-        "2407:30c0:181::6"
+        "2407:30c0:181::6",
+        "2407:30c0:180::6"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -2077,8 +2077,8 @@
       "index": 149,
       "host": "n04.jinggai.online",
       "ips": [
-        "172.67.165.32",
         "104.21.11.38",
+        "172.67.165.32",
         "2606:4700:3032::6815:b26",
         "2606:4700:3036::ac43:a520"
       ],
@@ -3382,8 +3382,8 @@
       "ips": [
         "170.114.46.6",
         "170.114.45.6",
-        "2407:30c0:180::6",
-        "2407:30c0:181::6"
+        "2407:30c0:181::6",
+        "2407:30c0:180::6"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -4804,8 +4804,8 @@
       "ips": [
         "170.114.46.6",
         "170.114.45.6",
-        "2407:30c0:180::6",
-        "2407:30c0:181::6"
+        "2407:30c0:181::6",
+        "2407:30c0:180::6"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -5864,8 +5864,8 @@
       "index": 424,
       "host": "n04.jinggai.online",
       "ips": [
-        "172.67.165.32",
         "104.21.11.38",
+        "172.67.165.32",
         "2606:4700:3032::6815:b26",
         "2606:4700:3036::ac43:a520"
       ],
@@ -7562,8 +7562,8 @@
       "index": 548,
       "host": "saas.sin.fan",
       "ips": [
-        "162.159.130.234",
-        "162.159.135.234"
+        "162.159.135.234",
+        "162.159.130.234"
       ],
       "region": "OTHER",
       "geoip": [
@@ -7628,8 +7628,8 @@
       "index": 552,
       "host": "saas.sin.fan",
       "ips": [
-        "162.159.130.234",
-        "162.159.135.234"
+        "162.159.135.234",
+        "162.159.130.234"
       ],
       "region": "OTHER",
       "geoip": [
@@ -7664,7 +7664,7 @@
       "index": 554,
       "host": "us1.oh-node.com",
       "ips": [
-        "54.193.105.3"
+        "18.145.240.67"
       ],
       "region": "OTHER",
       "geoip": [
@@ -10405,14 +10405,32 @@
       "index": 757,
       "host": "mx001.zestapp778.com",
       "ips": [
-        "149.104.87.125"
+        "172.67.213.58",
+        "104.21.23.200",
+        "2606:4700:3030::6815:17c8",
+        "2606:4700:3036::ac43:d53a"
       ],
       "region": "OTHER",
       "geoip": [
         {
-          "country": "Mexico",
-          "country_code": "MX",
-          "city": "Mexico City"
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
         }
       ]
     },
@@ -10480,8 +10498,8 @@
       "index": 762,
       "host": "saas.sin.fan",
       "ips": [
-        "162.159.130.234",
-        "162.159.135.234"
+        "162.159.135.234",
+        "162.159.130.234"
       ],
       "region": "OTHER",
       "geoip": [
@@ -10546,8 +10564,8 @@
       "index": 766,
       "host": "www.speedtest.net",
       "ips": [
-        "104.17.148.22",
-        "104.17.147.22"
+        "104.17.147.22",
+        "104.17.148.22"
       ],
       "region": "OTHER",
       "geoip": [
@@ -10672,7 +10690,7 @@
       "index": 774,
       "host": "us1.oh-node.com",
       "ips": [
-        "54.193.105.3"
+        "18.145.240.67"
       ],
       "region": "OTHER",
       "geoip": [
@@ -10717,8 +10735,8 @@
       "index": 777,
       "host": "saas.sin.fan",
       "ips": [
-        "162.159.130.234",
-        "162.159.135.234"
+        "162.159.135.234",
+        "162.159.130.234"
       ],
       "region": "OTHER",
       "geoip": [
@@ -11785,26 +11803,26 @@
       "index": 845,
       "host": "connect.wecantos.site",
       "ips": [
-        "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226",
-        "155.117.5.208"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
           "country": "France",
           "country_code": "FR",
           "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
         }
       ]
     },
@@ -11857,26 +11875,26 @@
       "index": 849,
       "host": "connect.wecantos.site",
       "ips": [
-        "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226",
-        "155.117.5.208"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
           "country": "France",
           "country_code": "FR",
           "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
         }
       ]
     },
@@ -14253,8 +14271,8 @@
       "index": 1015,
       "host": "n04.jinggai.online",
       "ips": [
-        "172.67.165.32",
         "104.21.11.38",
+        "172.67.165.32",
         "2606:4700:3032::6815:b26",
         "2606:4700:3036::ac43:a520"
       ],
@@ -14556,8 +14574,8 @@
       "index": 1034,
       "host": "saas.sin.fan",
       "ips": [
-        "162.159.130.234",
-        "162.159.135.234"
+        "162.159.135.234",
+        "162.159.130.234"
       ],
       "region": "OTHER",
       "geoip": [
@@ -14637,8 +14655,8 @@
       "index": 1039,
       "host": "n04.jinggai.online",
       "ips": [
-        "172.67.165.32",
         "104.21.11.38",
+        "172.67.165.32",
         "2606:4700:3032::6815:b26",
         "2606:4700:3036::ac43:a520"
       ],
@@ -16528,9 +16546,9 @@
       "index": 1162,
       "host": "milo.networkforexir.site",
       "ips": [
-        "178.83.45.226",
+        "168.222.43.53",
         "155.117.5.208",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -16645,9 +16663,9 @@
       "index": 1169,
       "host": "milo.networkforexir.site",
       "ips": [
-        "178.83.45.226",
+        "168.222.43.53",
         "155.117.5.208",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -17663,14 +17681,32 @@
       "index": 1247,
       "host": "mx001.zestapp778.com",
       "ips": [
-        "149.104.87.125"
+        "172.67.213.58",
+        "104.21.23.200",
+        "2606:4700:3030::6815:17c8",
+        "2606:4700:3036::ac43:d53a"
       ],
       "region": "OTHER",
       "geoip": [
         {
-          "country": "Mexico",
-          "country_code": "MX",
-          "city": "Mexico City"
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
         }
       ]
     },
@@ -17813,10 +17849,10 @@
       "index": 1257,
       "host": "www.calmlunch.com",
       "ips": [
-        "104.18.8.83",
         "104.18.9.83",
-        "2606:4700::6812:853",
-        "2606:4700::6812:953"
+        "104.18.8.83",
+        "2606:4700::6812:953",
+        "2606:4700::6812:853"
       ],
       "region": "OTHER",
       "geoip": [
@@ -18512,26 +18548,26 @@
       "index": 1300,
       "host": "connect.wecantos.site",
       "ips": [
-        "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226",
-        "155.117.5.208"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
           "country": "France",
           "country_code": "FR",
           "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
         }
       ]
     },
@@ -19122,26 +19158,26 @@
       "index": 1338,
       "host": "connect.wecantos.site",
       "ips": [
-        "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226",
-        "155.117.5.208"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
           "country": "France",
           "country_code": "FR",
           "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
         }
       ]
     },
@@ -19149,9 +19185,9 @@
       "index": 1339,
       "host": "milo.networkforexir.site",
       "ips": [
-        "178.83.45.226",
+        "168.222.43.53",
         "155.117.5.208",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -19768,9 +19804,9 @@
       "index": 1376,
       "host": "milo.networkforexir.site",
       "ips": [
-        "178.83.45.226",
+        "168.222.43.53",
         "155.117.5.208",
-        "168.222.43.53"
+        "178.83.45.226"
       ],
       "region": "UNKNOWN",
       "geoip": [
@@ -21234,10 +21270,10 @@
       "index": 1482,
       "host": "www.calmlunch.com",
       "ips": [
-        "104.18.8.83",
         "104.18.9.83",
-        "2606:4700::6812:853",
-        "2606:4700::6812:953"
+        "104.18.8.83",
+        "2606:4700::6812:953",
+        "2606:4700::6812:853"
       ],
       "region": "OTHER",
       "geoip": [
@@ -24084,14 +24120,32 @@
       "index": 1676,
       "host": "us001.zestapp778.com",
       "ips": [
-        "130.94.20.17"
+        "104.21.23.200",
+        "172.67.213.58",
+        "2606:4700:3036::ac43:d53a",
+        "2606:4700:3030::6815:17c8"
       ],
       "region": "OTHER",
       "geoip": [
         {
           "country": "United States",
           "country_code": "US",
-          "city": "Washington"
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
         }
       ]
     },
@@ -24249,14 +24303,32 @@
       "index": 1687,
       "host": "us001.zestapp778.com",
       "ips": [
-        "130.94.20.17"
+        "104.21.23.200",
+        "172.67.213.58",
+        "2606:4700:3036::ac43:d53a",
+        "2606:4700:3030::6815:17c8"
       ],
       "region": "OTHER",
       "geoip": [
         {
           "country": "United States",
           "country_code": "US",
-          "city": "Washington"
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
         }
       ]
     },
@@ -24339,14 +24411,32 @@
       "index": 1693,
       "host": "mx001.zestapp778.com",
       "ips": [
-        "149.104.87.125"
+        "172.67.213.58",
+        "104.21.23.200",
+        "2606:4700:3030::6815:17c8",
+        "2606:4700:3036::ac43:d53a"
       ],
       "region": "OTHER",
       "geoip": [
         {
-          "country": "Mexico",
-          "country_code": "MX",
-          "city": "Mexico City"
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
         }
       ]
     },
@@ -24384,14 +24474,32 @@
       "index": 1696,
       "host": "mx001.zestapp778.com",
       "ips": [
-        "149.104.87.125"
+        "172.67.213.58",
+        "104.21.23.200",
+        "2606:4700:3030::6815:17c8",
+        "2606:4700:3036::ac43:d53a"
       ],
       "region": "OTHER",
       "geoip": [
         {
-          "country": "Mexico",
-          "country_code": "MX",
-          "city": "Mexico City"
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
+        },
+        {
+          "country": "United States",
+          "country_code": "US",
+          "city": "San Francisco"
         }
       ]
     },
@@ -24489,10 +24597,10 @@
       "index": 1703,
       "host": "www.calmlunch.com",
       "ips": [
-        "104.18.8.83",
         "104.18.9.83",
-        "2606:4700::6812:853",
-        "2606:4700::6812:953"
+        "104.18.8.83",
+        "2606:4700::6812:953",
+        "2606:4700::6812:853"
       ],
       "region": "OTHER",
       "geoip": [
@@ -24612,10 +24720,10 @@
       "index": 1710,
       "host": "www.calmlunch.com",
       "ips": [
-        "104.18.8.83",
         "104.18.9.83",
-        "2606:4700::6812:853",
-        "2606:4700::6812:953"
+        "104.18.8.83",
+        "2606:4700::6812:953",
+        "2606:4700::6812:853"
       ],
       "region": "OTHER",
       "geoip": [
@@ -24810,8 +24918,8 @@
       "index": 1722,
       "host": "saas.sin.fan",
       "ips": [
-        "162.159.130.234",
-        "162.159.135.234"
+        "162.159.135.234",
+        "162.159.130.234"
       ],
       "region": "OTHER",
       "geoip": [
@@ -25209,26 +25317,26 @@
       "index": 1747,
       "host": "connect.wecantos.site",
       "ips": [
-        "168.222.43.53",
+        "155.117.5.208",
         "178.83.45.226",
-        "155.117.5.208"
+        "168.222.43.53"
       ],
       "region": "UNKNOWN",
       "geoip": [
         {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
-          "country": "Germany",
-          "country_code": "DE",
-          "city": "Limburg an der Lahn"
-        },
-        {
           "country": "France",
           "country_code": "FR",
           "city": "Gravelines"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
+        },
+        {
+          "country": "Germany",
+          "country_code": "DE",
+          "city": "Limburg an der Lahn"
         }
       ]
     },
