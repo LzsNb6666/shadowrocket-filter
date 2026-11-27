@@ -1,12 +1,12 @@
 {
   "source": "https://raw.githubusercontent.com/freenodess/freenodess/refs/heads/main/nodes/v2ray-base64.txt",
   "original_nodes": 1751,
-  "filtered_nodes": 570,
-  "excluded_nodes": 1181,
+  "filtered_nodes": 566,
+  "excluded_nodes": 1185,
   "kept_regions": {
     "JP": 76,
     "TW": 25,
-    "KR": 61,
+    "KR": 57,
     "SG": 155,
     "UNKNOWN": 253
   },
