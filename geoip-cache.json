@@ -2523,5 +2523,10 @@
     "country": "Mexico",
     "country_code": "MX",
     "city": "Mexico City"
+  },
+  "54.67.154.149": {
+    "country": "United States",
+    "country_code": "US",
+    "city": "San Jose"
   }
 }
